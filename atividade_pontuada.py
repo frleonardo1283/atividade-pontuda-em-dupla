@@ -138,3 +138,6 @@ if autenticar():
                 print('Opção invalida! Escolha de 0 a 4')
             
         input('\nPressione enter pra continuar...')
+#Atividade Pontuada - Banco Cofrinho
+#feita por Leonardo de cerqueira santa filho
+#feita por Richard correia rodrigues santos
